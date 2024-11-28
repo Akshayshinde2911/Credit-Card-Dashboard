@@ -1,5 +1,9 @@
 # Credit-Card-Dashboard
 
+# Methodology:
+
+- Created Credit Card Database and imported the Credit Card and Customer details into MySql using Python with the help of Sqlalchemy and Urllib.
+
 # Project Insights:
 
 ## WoW change:
