@@ -1,5 +1,7 @@
 # Credit-Card-Dashboard
 
+# Project Insights:
+
 ## WoW change:
 
 - Revenue increased by 28.8%
