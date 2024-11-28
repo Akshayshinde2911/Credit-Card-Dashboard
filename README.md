@@ -11,7 +11,9 @@
 
 - Total transaction amount is 46M
 
-- Male customers are contributing more in revenue 31M, female 26M
+- Male customers are contributing more in revenue 31M compared to female 26M
+
+- Male customers are contributing more in Interest 4.32M compared to female 3.66M
 
 - Blue & Silver credit card are contributing to 93% of overall transactions
 
