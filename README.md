@@ -5,13 +5,6 @@
 - Created Credit Card Database and imported the Credit Card and Customer details into MySql using Python with the help of Sqlalchemy and Urllib.
 
 # Project Insights:
-
-## WoW change:
-
-- Revenue increased by 28.8%
-
-## Overview YTD:
-
 - Overall revenue is 57M
 
 - Total interest is 8M
